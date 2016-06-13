@@ -1,0 +1,6 @@
+accurate 准确
+suppress 取缔
+explicitly 明确地
+identity 身份，特性
+amend 修正
+synopsis 概要
